@@ -1,0 +1,8 @@
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\bin\Debug\TicTacToeStart.dll
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\bin\Debug\TicTacToeStart.pdb
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\obj\Debug\TicTacToeStart.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\obj\Debug\TicTacToeStart.UserControl1.resources
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\obj\Debug\TicTacToeStart.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\obj\Debug\TicTacToeStart.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\obj\Debug\TicTacToeStart.dll
+C:\Users\Joyce\source\repos\TicTacToeStart\TicTacToeStart\obj\Debug\TicTacToeStart.pdb
